@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "614169997385",
+    "project_id": "pex-cat",
+    "storage_bucket": "pex-cat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614169997385:android:53f7a265b9ff72bb80cf98",
+        "android_client_info": {
+          "package_name": "com.example.gpex2024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQMN1uTtVSsqUPUU7j_xM7LMPupk_LrSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
