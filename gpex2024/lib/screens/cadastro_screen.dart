@@ -22,7 +22,7 @@ class _CadastroScreenState extends State<CadastroScreen> {
         password: password,
       );
 
-      // Atualiza o perfil do usuário com o nome
+
       await userCredential.user!.updateDisplayName(name);
 
       ScaffoldMessenger.of(context).showSnackBar(

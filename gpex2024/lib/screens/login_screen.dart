@@ -12,7 +12,7 @@ class _LoginScreenState extends State<LoginScreen> {
   final TextEditingController emailController = TextEditingController();
   final TextEditingController passwordController = TextEditingController();
 
-  // Método para realizar login
+
   Future<void> login() async {
     final email = emailController.text.trim();
     final password = passwordController.text.trim();
